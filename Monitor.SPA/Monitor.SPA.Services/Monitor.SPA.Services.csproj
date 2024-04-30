@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Monitor.SPA.Models\Monitor.SPA.Models.csproj" />
+    <ProjectReference Include="..\Monitor.SPA.Repository\Monitor.SPA.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
